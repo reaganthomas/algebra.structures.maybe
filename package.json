@@ -1,0 +1,25 @@
+{
+  "name": "algebra.structures.maybe",
+  "version": "0.1.0",
+  "description": "Maybe structure for use in functional programming.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reaganthomas/algebra.structures.maybe.git"
+  },
+  "keywords": [
+    "maybe",
+    "algebra",
+    "structure",
+    "functional"
+  ],
+  "author": "Reagan Thomas <reagan@reaganthomas.com> (http://reaganthomas.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reaganthomas/algebra.structures.maybe/issues"
+  },
+  "homepage": "https://github.com/reaganthomas/algebra.structures.maybe"
+}
